@@ -16,7 +16,7 @@ The study investigates how the number of Chain-of-Thought (CoT) examples in prom
   - Reasoning length (word count of model output)
 
 - **Dataset:**  
-  [Social IQA](https://allenai.org/data/social-iqa) (used a subset of 100 dev examples)
+  [Social IQA]([https://allenai.org/data/social-iqa](https://leaderboard.allenai.org/socialiqa/submissions/get-started)) (used a subset of 100 dev examples)
 
 ## 📁 Files
 
