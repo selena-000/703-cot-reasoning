@@ -35,6 +35,11 @@ The study investigates how the number of Chain-of-Thought (CoT) examples in prom
    ```python
    import os
    os.environ["OPENAI_API_KEY"] = "your-key-here"
-   Or, if you're running this notebook privately (e.g., personal test), you can directly set the key inline like this:
-   openai.api_key = "..."  # Replace with your actual key 
+   ```
+
+  Or, if you're running this notebook privately (e.g., personal test),  you can directly set the key inline like this:
+
+  ```python
+  openai.api_key = "..."  # Replace with your actual key
+  ```
 
